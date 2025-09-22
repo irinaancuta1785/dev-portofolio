@@ -27,6 +27,17 @@ h2 {
     border-radius: 0;
 }
 
+/* btn style */
+.custom-button {
+    background-color: midnightblue;
+    border: midnightblue;
+}
+
+.custom-button:hover {
+    background-color: #1d6d8a;
+    border: #1d6d8a;
+}
+
 /* about section */
 
 #about {
